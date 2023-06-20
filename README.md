@@ -17,3 +17,5 @@
 ----------------------------------
 # 5. All localization strings added
 # Copied all strings to Ios App
+----------------------------------
+# 6. Splash Screen Added
