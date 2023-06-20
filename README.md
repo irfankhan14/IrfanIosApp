@@ -14,3 +14,6 @@
 # Select your root project file, and then proceed to the project panel. Find the Localization section section, click the “plus” (+) icon, and add the desired languages.
 # In the Choose files and reference language… dialog select ONLY the Localizable.strings file for Localization
 # For more info, Please visit: https://lokalise.com/blog/getting-started-with-ios-localization/
+----------------------------------
+# 5. All localization strings added
+# Copied all strings to Ios App
