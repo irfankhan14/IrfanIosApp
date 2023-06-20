@@ -12,6 +12,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        print("aaaaa")  
+        print(NSLocalizedString("welcome_screen_title", comment: ""))
     }
 
 
